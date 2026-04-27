@@ -1,1 +1,1 @@
-https://lucas-n-projects/filmotheque_requete_ajax/
+https://lucas-n-projects.github.io/filmotheque_requete_ajax/
